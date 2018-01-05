@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1514981324 source:f:\unsa\eda\binarisearchretroactive\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<cmath>
+
+1515001177 source:f:\binarisearchretroactive\main.cpp
+	<iostream>
+	<ctime>
+	<stdio.h>
+	<stdlib.h>
+	<cmath>
+
